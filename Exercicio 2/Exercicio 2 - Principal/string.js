@@ -1,8 +1,8 @@
 // Exercícios de manipulação de strings
 
 // 1. Declaração e concatenação
-const firstName = "Alexandre";
-const lastName = "Rodrigues";
+const firstName = "Maria";
+const lastName = "Silva";
 const fullName = firstName + " " + lastName;
 console.log("Nome completo:", fullName);
 
