@@ -4,7 +4,7 @@
 let fullName = "Maria Silva";
 let letra = "a";
 
-if (fullName.includes(letra)) {
+if (fullName.toLowerCase().includes(letra.toLowerCase())) {
     console.log(`O nome "${fullName}" possui a letra "${letra}"`)
 } else {
     console.log(`O nome "${fullName}" não possui a letra ${letra}`)
