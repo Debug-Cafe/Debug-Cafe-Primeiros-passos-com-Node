@@ -7,12 +7,3 @@ const students = [
     { name: "Carlos", age: 22, grades: [90, 88, 92] }
 ];
 
-/* Desafio
-
-a) Calcule a média das notas de cada aluno
-b) Determine quem foi aprovado (média >= 70)
-c) Conte alunos aprovados e reprovados
-d) Encontre o aluno com maior média
-e) Calcule a média geral da turma
-
-*/
